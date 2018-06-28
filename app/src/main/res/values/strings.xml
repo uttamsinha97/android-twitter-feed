@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Twitter Show Timeline Demo</string>
+    <string name="search_twitter">Search Twitter</string>
+    <string name="no_tweets">No Tweets</string>
+    <string name="login">Login</string>
+
+
+    <!-- for text -->
+    <style name="AppTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#ff5722</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <!-- string array for Tab items -->
+    <string-array name="tab_items">
+        <item>User Timeline</item>
+        <item>Home Timeline</item>
+        <item>Collection Timeline</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
