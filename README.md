@@ -1,0 +1,2 @@
+# android-twitter-feed
+I am avid user of twitter and  follow about 600 interesting people on the platform. All these people tweet different links which are received in my twitter feed.  I do not check my twitter feed regularly. Which means i might miss on all the interesting links shared by others.  So I am building an android application which can bookmark all the links in my twitter feed and store in a data base. So that I can login whenever required and check all the links shared on  a particular day.
