@@ -13,3 +13,6 @@ Launch Android Studio.
 Choose import project option (Gradle , eclipse, ADT etc )
 Make necesssary changes in the gradle file like the app compat version which is used to develop the project is built over the version appcompat-v7:27.1.1 , So add the below line in 
 implementation 'com.android.support:appcompat-v7:27.1.1'
+
+Build The project.
+Connect an android device to run the project or run on a virtual device.
